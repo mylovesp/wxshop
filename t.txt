@@ -1,7 +1,1 @@
-Hello! word.....
-abcdefg
-999999999999999
-100000000000000000000
-hhhhhhhhh
-bbbbbbb
-jjjj
+Hello! git....
